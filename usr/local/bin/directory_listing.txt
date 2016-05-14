@@ -1,0 +1,14 @@
+Output of "ls -latr":
+t root      675 Jan 29 08:51 dual_monitor.sh
+drwxr-xr-x  6 root root     4096 Feb  1 18:31 apache-maven-3.3.9
+-rw-r--r--  1 root root      681 Apr  9 12:37 single_monitor.sh
+lrwxrwxrwx  1 root root       40 Apr 15 16:45 ldnode -> ../lib/node_modules/ldnode/bin/ldnode.js
+lrwxrwxrwx  1 root root       45 May  7 13:14 solid -> ../lib/node_modules/solid-server/bin/solid.js
+lrwxrwxrwx  1 root root       27 May  9 20:32 n -> ../lib/node_modules/n/bin/n
+drwxr-xr-x 11 root root     4096 May  9 20:32 ..
+lrwxrwxrwx  1 root root       44 May 10 15:24 node-gyp -> ../lib/node_modules/node-gyp/bin/node-gyp.js
+lrwxrwxrwx  1 root root       38 May 13 17:36 npm -> ../lib/node_modules/npm/bin/npm-cli.js
+-rwxrwxr-x  1  500  500 27368828 May 13 17:36 node
+drwxr-xr-x  4 root root     4096 May 13 21:35 node-solid-server
+-rw-r--r--  1 root root        0 May 14 16:11 directoryl.txt
+drwxrwxr-x  4  500  500     4096 May 14 16:11 .
